@@ -1,0 +1,220 @@
+{
+  "columns": [
+    {
+      "field": "Configuration",
+      "title": "Configuration",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 303
+    },
+    {
+      "field": "Architecture",
+      "title": "Architecture",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 131
+    },
+    {
+      "field": "Learning Rate",
+      "title": "Learning Rate",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 141
+    },
+    {
+      "field": "Dropout",
+      "title": "Dropout",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 108
+    },
+    {
+      "field": "Weight Decay",
+      "title": "Weight Decay",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 142
+    },
+    {
+      "field": "Final Train Acc",
+      "title": "Final Train Acc",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 144
+    },
+    {
+      "field": "Final Val Acc",
+      "title": "Final Val Acc",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 149
+    },
+    {
+      "field": "Test Overall Acc",
+      "title": "Test Overall Acc",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 153
+    },
+    {
+      "field": "Mean Class Recall",
+      "title": "Mean Class Recall",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 166
+    },
+    {
+      "field": "Macro Precision",
+      "title": "Macro Precision",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 155
+    },
+    {
+      "field": "Macro F1-Score",
+      "title": "Macro F1-Score",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 154
+    },
+    {
+      "field": "Weighted F1-Score",
+      "title": "Weighted F1-Score",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 174
+    },
+    {
+      "field": "HDPE F1",
+      "title": "HDPE F1",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 141
+    },
+    {
+      "field": "HDPE Prec",
+      "title": "HDPE Prec",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 121
+    },
+    {
+      "field": "HDPE Rec",
+      "title": "HDPE Rec",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 117
+    },
+    {
+      "field": "PET F1",
+      "title": "PET F1",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 149
+    },
+    {
+      "field": "PET Prec",
+      "title": "PET Prec",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 141
+    },
+    {
+      "field": "PET Rec",
+      "title": "PET Rec",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 104
+    },
+    {
+      "field": "PP F1",
+      "title": "PP F1",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 90
+    },
+    {
+      "field": "PP Prec",
+      "title": "PP Prec",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 102
+    },
+    {
+      "field": "PP Rec",
+      "title": "PP Rec",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 98
+    },
+    {
+      "field": "PS F1",
+      "title": "PS F1",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 149
+    },
+    {
+      "field": "PS Prec",
+      "title": "PS Prec",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 141
+    },
+    {
+      "field": "PS Rec",
+      "title": "PS Rec",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 97
+    }
+  ]
+}

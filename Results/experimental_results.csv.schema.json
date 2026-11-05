@@ -1,0 +1,127 @@
+{
+  "fields": [
+    {
+      "name": "Configuration",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Architecture",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Learning Rate",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Dropout",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Weight Decay",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Final Train Acc",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Final Val Acc",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Test Overall Acc",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Mean Class Recall",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Macro Precision",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Macro F1-Score",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Weighted F1-Score",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "HDPE F1",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "HDPE Prec",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "HDPE Rec",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "PET F1",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "PET Prec",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "PET Rec",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "PP F1",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "PP Prec",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "PP Rec",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "PS F1",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "PS Prec",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "PS Rec",
+      "type": "number",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}

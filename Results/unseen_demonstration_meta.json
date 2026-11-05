@@ -1,0 +1,13 @@
+{
+    "unseen_bil_path": "Dataset/HDPE\\scan0010_frag15.bil",
+    "unseen_hdr_path": "Dataset/HDPE\\scan0010_frag15.hdr",
+    "true_class": "HDPE",
+    "predicted_class": "HDPE",
+    "confidence": 0.9962867498397827,
+    "probabilities": {
+        "HDPE": 0.9962867498397827,
+        "PET": 0.0021859523840248585,
+        "PP": 0.0011293310672044754,
+        "PS": 0.00039803169784136117
+    }
+}
